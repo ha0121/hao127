@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/haon127/static/css/main.1dcfe16d.css",
+    "main.js": "/haon127/static/js/main.8714da06.js",
+    "static/media/CV.pdf": "/haon127/static/media/CV.c13dc7b2f03136477fcf.pdf",
+    "static/media/bok.png": "/haon127/static/media/bok.2174386ee82ae8e33b53.png",
+    "static/media/woman.png": "/haon127/static/media/woman.85d5b6e726b942f6d6ac.png",
+    "static/media/podcast2.png": "/haon127/static/media/podcast2.4a83f40fdf724a019171.png",
+    "static/media/podcast.png": "/haon127/static/media/podcast.753fa4ba8084b2b07f79.png",
+    "static/media/háo.png": "/haon127/static/media/háo.4eb4d5f40742908b5774.png",
+    "static/media/3.png": "/haon127/static/media/3.74a97c517288f9391680.png",
+    "static/media/4.png": "/haon127/static/media/4.5980ed01668b7fcbbeb3.png",
+    "static/media/123123.png": "/haon127/static/media/123123.71f71efc62bd9529a2b0.png",
+    "static/media/1.svg": "/haon127/static/media/1.41e0405443547cf6fc47479e0fa15c68.svg",
+    "index.html": "/haon127/index.html",
+    "main.1dcfe16d.css.map": "/haon127/static/css/main.1dcfe16d.css.map",
+    "main.8714da06.js.map": "/haon127/static/js/main.8714da06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dcfe16d.css",
+    "static/js/main.8714da06.js"
+  ]
+}
